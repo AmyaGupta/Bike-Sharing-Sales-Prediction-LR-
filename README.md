@@ -4,8 +4,8 @@
 We are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
 
 We need to answer two questions for the company:
-Which variables are significant in predicting the demand for shared bikes.
-How well those variables describe the bike demands.
+1. Which variables are significant in predicting the demand for shared bikes.
+2. How well those variables describe the bike demands.
 
 ## Dataset
 Dataset used is stored in day.csv file.
